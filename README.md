@@ -3,7 +3,7 @@
 **Intern:** Muhammad Taha Nadeem
 **Registration:** [Your Registration Number]
 **Drop Concept:** Sneaker Drop
-**Live URL:** [Add Vercel URL after deployment]
+**Live URL:** mtn-cloudexify-project-2.vercel.app
 
 ## Features
 - Dynamic product rendering from JS data array
@@ -17,5 +17,3 @@
 - Bootstrap form validation on checkout
 - Fully responsive — 2-col mobile, 4-col desktop
 
-## Screenshots
-See /screenshots folder
