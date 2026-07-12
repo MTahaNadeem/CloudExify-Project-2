@@ -1,8 +1,8 @@
 # DROPZONE — Limited Sneaker Drops
 
-**Intern:** Taha P  
-**Registration:** [Your Registration Number]  
-**Drop Concept:** Sneaker Drop  
+**Intern:** Muhammad Taha Nadeem
+**Registration:** [Your Registration Number]
+**Drop Concept:** Sneaker Drop
 **Live URL:** [Add Vercel URL after deployment]
 
 ## Features
@@ -18,4 +18,4 @@
 - Fully responsive — 2-col mobile, 4-col desktop
 
 ## Screenshots
-Desktop and mobile screenshots are available in the `/screenshots` folder.
+See /screenshots folder
