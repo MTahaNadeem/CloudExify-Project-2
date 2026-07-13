@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="DROPZONE — Limited edition sneaker drops. Cop before stock runs out. No restocks. No exceptions.">
+  <meta name="description"
+    content="DROPZONE — Limited edition sneaker drops. Cop before stock runs out. No restocks. No exceptions.">
   <title>DROPZONE — Limited Sneaker Drops</title>
 
   <!-- Bootstrap 5.3.3 CSS -->
@@ -13,20 +15,24 @@
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700;800&display=swap"
+    rel="stylesheet">
   <!-- Custom CSS -->
   <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
 
   <!-- ======================== SECTION 1: NAVBAR ======================== -->
   <nav class="navbar navbar-dark bg-dark navbar-expand fixed-top" id="mainNav">
     <div class="container-fluid px-3 px-md-4">
       <a class="navbar-brand dz-brand" href="#">DROPZONE</a>
-      <button class="btn btn-outline-light position-relative cart-toggle-btn" type="button"
-              data-bs-toggle="offcanvas" data-bs-target="#cartOffcanvas" aria-label="Open cart">
+      <button class="btn btn-outline-light position-relative cart-toggle-btn" type="button" data-bs-toggle="offcanvas"
+        data-bs-target="#cartOffcanvas" aria-label="Open cart">
         <i class="bi bi-bag-fill"></i>
-        <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" id="cartCount">0</span>
+        <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger"
+          id="cartCount">0</span>
       </button>
     </div>
   </nav>
@@ -61,11 +67,7 @@
 
     <!-- Center: floating sneaker -->
     <div class="hero-sneaker">
-      <img 
-        src="assets/images/sneakerbanner.jpg"
-        alt="Drop Sneaker"
-        class="hero-sneaker-img"
-      />
+      <img src="assets/images/sneakerbanner.png" alt="Drop Sneaker" class="hero-sneaker-img" />
       <div class="hero-sneaker-glow"></div>
     </div>
 
@@ -169,7 +171,8 @@
   </div>
 
   <!-- ======================== SECTION 6: CART OFFCANVAS ======================== -->
-  <div class="offcanvas offcanvas-end bg-dark text-white" tabindex="-1" id="cartOffcanvas" aria-labelledby="cartOffcanvasLabel">
+  <div class="offcanvas offcanvas-end bg-dark text-white" tabindex="-1" id="cartOffcanvas"
+    aria-labelledby="cartOffcanvasLabel">
     <div class="offcanvas-header border-secondary">
       <h5 class="offcanvas-title" id="cartOffcanvasLabel">Your Cart 🛒</h5>
       <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
@@ -188,7 +191,8 @@
           <button class="btn btn-sm btn-outline-light" type="button" id="applyDiscount">Apply</button>
         </div>
         <p class="small mb-3" id="discountMsg"></p>
-        <button class="btn btn-accent w-100" id="checkoutBtn" data-bs-toggle="modal" data-bs-target="#checkoutModal">Checkout</button>
+        <button class="btn btn-accent w-100" id="checkoutBtn" data-bs-toggle="modal"
+          data-bs-target="#checkoutModal">Checkout</button>
       </div>
     </div>
   </div>
@@ -251,4 +255,5 @@
   <script src="js/data.js"></script>
   <script src="js/script.js"></script>
 </body>
+
 </html>
