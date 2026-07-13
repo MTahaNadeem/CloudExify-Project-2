@@ -1,7 +1,7 @@
 # DROPZONE — Limited Sneaker Drops
 
 **Intern:** Muhammad Taha Nadeem
-**Registration:** [Your Registration Number]
+**Registration:** CX-INT-2026-GEN-0490
 **Drop Concept:** Sneaker Drop
 **Live URL:** mtn-cloudexify-project-2.vercel.app
 
