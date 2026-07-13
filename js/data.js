@@ -11,7 +11,7 @@ const PRODUCTS = [
     price: 12500,
     stock: 3,
     rating: 4.8,
-    image: "assets/images/Shadow Vortex.png",
+    image: "assets/images/Shadow Vortex.jpg",
     description: "Murdered-out upper meets reactive foam. The Vortex doesn't walk — it glides.",
     badge: "NEW DROP",
     sizes: ["UK7", "UK8", "UK9", "UK10", "UK11"]
@@ -23,7 +23,7 @@ const PRODUCTS = [
     price: 9800,
     stock: 7,
     rating: 4.5,
-    image: "assets/images/Blaze Runner.png",
+    image: "assets/images/Blaze Runner.jpg",
     description: "Flame-gradient mesh with cushioned midsole. Streets aren't ready for this heat.",
     badge: null,
     sizes: ["UK7", "UK8", "UK9", "UK10"]
@@ -35,7 +35,7 @@ const PRODUCTS = [
     price: 15000,
     stock: 2,
     rating: 4.9,
-    image: "assets/images/Phantom High.png",
+    image: "assets/images/Phantom High.jpg",
     description: "Premium leather high-top. Only 50 pairs made worldwide. You're already too late.",
     badge: "LAST PAIR",
     sizes: ["UK8", "UK9", "UK10"]
@@ -47,7 +47,7 @@ const PRODUCTS = [
     price: 8500,
     stock: 10,
     rating: 4.3,
-    image: "assets/images/Drift Low.png",
+    image: "assets/images/Drift Low.jpg",
     description: "Clean low-profile silhouette. Everyday flex without trying too hard.",
     badge: null,
     sizes: ["UK7", "UK8", "UK9", "UK10", "UK11"]
@@ -59,7 +59,7 @@ const PRODUCTS = [
     price: 3500,
     stock: 8,
     rating: 4.6,
-    image: "assets/images/Cloud Slide.png",
+    image: "assets/images/Cloud Slide.jpg",
     description: "Pillow-soft EVA foam slide. Post-drop recovery for your feet.",
     badge: "HOT",
     sizes: ["UK7", "UK8", "UK9", "UK10"]
@@ -71,7 +71,7 @@ const PRODUCTS = [
     price: 4200,
     stock: 5,
     rating: 4.4,
-    image: "assets/images/Stealth Slide.png",
+    image: "assets/images/Stealth Slide.jpg",
     description: "Blacked-out slide with textured footbed. Minimal effort, maximum drip.",
     badge: null,
     sizes: ["UK7", "UK8", "UK9", "UK10"]
@@ -83,7 +83,7 @@ const PRODUCTS = [
     price: 2200,
     stock: 4,
     rating: 4.2,
-    image: "assets/images/Drop Cap.png",
+    image: "assets/images/Drop Cap.jpg",
     description: "Embroidered DROPZONE logo cap. Structured crown, curved brim, adjustable strap.",
     badge: null,
     sizes: null
@@ -95,7 +95,7 @@ const PRODUCTS = [
     price: 1500,
     stock: 6,
     rating: 4.0,
-    image: "assets/images/Hype Socks Pack.png",
+    image: "assets/images/Hype Socks Pack.jpg",
     description: "3-pair pack of crew-length socks with woven branding. The base layer of every fit.",
     badge: "NEW DROP",
     sizes: null
@@ -107,7 +107,7 @@ const PRODUCTS = [
     price: 18500,
     stock: 2,
     rating: 5.0,
-    image: "assets/images/Obsidian Dunk.png",
+    image: "assets/images/Obsidian Dunk.jpg",
     description: "Handcrafted suede dunk with gold accents. The grail of this drop — legends only.",
     badge: "HOT",
     sizes: ["UK8", "UK9", "UK10", "UK11"]
@@ -119,7 +119,7 @@ const PRODUCTS = [
     price: 800,
     stock: 10,
     rating: 3.9,
-    image: "assets/images/Lace Kit.png",
+    image: "assets/images/Lace Kit.jpg",
     description: "Premium flat laces in 4 colourways. Swap your look without swapping your kicks.",
     badge: null,
     sizes: null
